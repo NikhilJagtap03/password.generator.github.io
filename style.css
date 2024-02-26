@@ -250,3 +250,10 @@ input[type=checkbox] {
         right: 10px;
     }
 }
+
+.footer__bar {
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.8rem;
+    border-top: 1px solid var(--extra-light);
+  }
